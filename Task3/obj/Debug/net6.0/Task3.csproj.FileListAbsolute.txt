@@ -1,0 +1,15 @@
+D:\Programs\GitHub\Task3\Task3\bin\Debug\net6.0\Task3.exe
+D:\Programs\GitHub\Task3\Task3\bin\Debug\net6.0\Task3.deps.json
+D:\Programs\GitHub\Task3\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+D:\Programs\GitHub\Task3\Task3\bin\Debug\net6.0\Task3.dll
+D:\Programs\GitHub\Task3\Task3\bin\Debug\net6.0\ref\Task3.dll
+D:\Programs\GitHub\Task3\Task3\bin\Debug\net6.0\Task3.pdb
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.dll
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\ref\Task3.dll
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.pdb
+D:\Programs\GitHub\Task3\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
